@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482138511033",
+    "project_id": "holberton-hackathon",
+    "storage_bucket": "holberton-hackathon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482138511033:android:e3892905cac68e4673ad68",
+        "android_client_info": {
+          "package_name": "com.onedome.domehive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSgDXLIa3JmD8HNlF2k3EBUWm82zVn4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+/Users/alistein/Documents/Optima-Projects/OneDome/onedome/android/app/.cxx/RelWithDebInfo/6ex2q5o5/x86_64/CMakeFiles/edit_cache.dir
+/Users/alistein/Documents/Optima-Projects/OneDome/onedome/android/app/.cxx/RelWithDebInfo/6ex2q5o5/x86_64/CMakeFiles/rebuild_cache.dir

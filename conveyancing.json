@@ -1,0 +1,73 @@
+[
+
+	{
+		//Buyer and Seller
+		"firstName": "Ali",
+		"lastName": "Aliyev",
+		"email": "tomu778899113@gmail.com",
+		"phoneNumber": "+44432432432",
+		"comment": "comment",
+		"purchasePropertyInfo": {
+			"mortgage": true,
+			"address": {
+				"city": "LONDON",
+				"countryId": "GBR",
+				"line1": "LOTS",
+				"line2": "",
+				"building_number": "",
+				"dependent_street": "",
+				"street": "LOTS",
+				"address_key": "52145405",
+				"postalCode": "SW10 0AB",
+				"dependent_locality": "",
+				"subbuilding_name": "",
+				"building_name": ""
+			},
+			"leasehold": true,
+			"newBuild": true,
+			"forcesHelpToBuy": false,
+			"equityLoan": true,
+			"secondHome": true,
+			"sharedOwnership": false,
+			"commonHold": false,
+			"unregisteredLand": true,
+			"helpBuyIsa": false,
+			"rightToBuy": true,
+			"firstTimeBuyer": false,
+			"shareOfFreehold": false,
+			"price": 600000,
+			"offerAccepted": true,
+			"addressDefined": true,
+			"lender": "Acenden"
+		},
+		"salePropertyInfo": {
+			"address": {
+				"city": "LONDON",
+				"countryId": "GBR",
+				"line1": "LOTS",
+				"line2": "",
+				"building_number": "",
+				"dependent_street": "",
+				"street": "LOTS",
+				"address_key": "52145405",
+				"postalCode": "SW10 0AB",
+				"dependent_locality": "",
+				"subbuilding_name": "",
+				"building_name": ""
+			},
+			"leasehold": true,
+			"newBuild": true,
+			"sharedOwnership": true,
+			"commonHold": false,
+			"unregisteredLand": true,
+			"shareOfFreehold": false,
+			"price": 500000
+		},
+		"referralRegisterType": true,
+		"transactionProfile": "Buyer and Seller",
+		"invitationPurpose": "CONVEYANCING",
+		"dhRefId": "pZXCvEPTdXG2xtMeuvWD",
+		"dhFormId": "3dac05e9-cb22-4acd-a705-dcf3f2e897ac"
+	}
+
+]
